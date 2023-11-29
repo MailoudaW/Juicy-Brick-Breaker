@@ -7,7 +7,7 @@ Description
 
 ## Implementation
 
-Which features you included
+I included a ball, confetty effect as well as a texture for the brick. 
 
 
 ## References
@@ -17,3 +17,4 @@ Which features you included
 
 
 ## Created by
+Mailouda Wallet Mohamed
