@@ -7,7 +7,7 @@ Description
 
 ## Implementation
 
-I included a ball, confetty effect as well as a texture for the brick. 
+I included a ball, confetty effect as well as a texture for the brick. I also edited the fonts as well as the theme colors. 
 
 
 ## References
